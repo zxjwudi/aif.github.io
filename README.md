@@ -1,1 +1,1 @@
-# civ.github.io
+Homepage of IJCAI-AIF
