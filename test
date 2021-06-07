@@ -1,0 +1,354 @@
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<title>FTL-IJCAI'21</title>
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+    <link href="css/style.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<head>
+<div class="container">
+    <div align="center">
+<img border="0" width="100%" src="FL-IJCAI21/header.jpg"></img>
+<p>
+<h2>International Workshop on Federated and Transfer Learning for Data Sparsity and Confidentiality <br>in Conjunction with IJCAI 2021 (FTL-IJCAI'21)</h2>
+
+<br><b>Submission Due</b>: <strike>June 05, 2021</strike> <span style="color:red">June 20, 2021</span> (23:59:59 AoE)
+<br><b>Notification Due</b>: <strike>June 25, 2021</strike> <span style="color:red">July 15, 2021</span>
+<br><b>Workshop Date</b>: August 21~22, 2021
+<br><b>Venue</b>: Online
+    </div>
+</div>
+</head>
+
+<body>
+<br>
+<div class="container">
+    <h3>Call for Papers</h3>
+    <div class="overview">
+<p>Privacy and security are becoming a key concern in our digital age. Companies and organizations are collecting a wealth of data on a daily basis. Data owners have to be very cautious while exploiting the values in the data, since the most useful data for machine learning often tend to be confidential. Increasingly strict data privacy regulations such as the European Union’s General Data Protection Regulation (GDPR) bring new legislative challenges to the big data and artificial intelligence (AI) community. Many operations in the big data domain, such as merging user data from various sources for building an AI model, will be considered illegal under the new regulatory framework if they are performed without explicit user authorization.
+
+<p>In order to explore how the AI research community can adapt to this new regulatory reality, we organize this one-day workshop in conjunction with the <a href="https://ijcai-21.org/" target="_blank">30th International Joint Conference on Artificial Intelligence (IJCAI'21)</a>. The workshop will focus on machine learning systems adhering to the privacy-preserving and security principles. Technical issues include but not limit to data collection, integration, training and modelling, both in the centralized and distributed setting. The workshop intends to provide a forum to discuss the open problems and share the most recent and ground-breaking work on the study and application of secure and privacy-preserving compliant machine learning. Both theoretical and application-based contributions are welcome. The FL-series workshops seek to explore new ideas with particular focus on addressing the following challenges:
+<ul>
+<li>Security and Regulation Compliance: How to meet the security and compliance requirements? Does the solution ensure data privacy and model security?</li>
+<li>Collaboration and Expansion Solution: Does the solution connect different business partners from various parties and industries? Does the solution exploit and extend the value of data while observing user privacy and data security?</li>
+<li>Promotion & Empowerment: Is the solution sustainable and intelligent? Does it include incentive mechanisms to encourage parties to participate on a continuous basis? Does it promote a stable and win-win business ecosystem?</li>
+</ul>
+
+<p>We welcome submissions on recent advances in privacy-preserving, secure machine learning and artificial intelligence systems. All accepted papers will be presented during the workshop. At least one author of each accepted paper is expected to represent it at the workshop. Topics include but not limit to: 
+
+<p>Techniques 
+<ol>
+<li>Adversarial learning, data poisoning, adversarial examples, adversarial robustness, black box attacks</li>
+<li>Architecture and privacy-preserving learning protocols</li>
+<li>Automated federated learning</li>
+<li>Federated learning and distributed privacy-preserving algorithms</li>
+<li>Federated transfer learning</li>
+<li>Human-in-the-loop for privacy-aware machine learning</li>
+<li>Incentive mechanism and game theory</li>
+<li>Privacy aware knowledge driven federated learning</li>
+<li>Privacy-preserving techniques (secure multi-party computation, homomorphic encryption, secret sharing techniques, differential privacy) for machine learning</li>
+<li>Responsible, explainable and interpretability of AI</li>
+<li>Security for privacy</li>
+<li>Trade-off between privacy and efficiency</li>
+<li>Heterogeneous computing systems for federated learning</li>
+</ol>
+
+<p>Applications
+<ol>
+<li>Approaches to make AI GDPR-compliant</li>
+<li>Crowd intelligence</li>
+<li>Data value and economics of data federation</li>
+<li>Open-source frameworks for distributed learning</li>
+<li>Safety and security assessment of AI solutions</li>
+<li>Solutions to data security and small-data challenges in industries</li>
+<li>Standards of data privacy and security</li>
+</ol>
+
+<p>Position, perspective, and vision papers are also welcome.  
+
+<p>More information on previous workshops can be found <a href="http://federated-learning.org/" target="_blank">here</a>.
+
+    </div>
+</div>
+
+<br>
+
+<div class="container">
+  <h3>Distinguished Keynote Lecture</h3>
+<table>
+<tr class="container">
+<td style="vertical-align:top"><img border="0" height="200" src="qyang.jpg"></img></td>
+<td>&nbsp&nbsp&nbsp</td>
+<td>
+<h5>
+<p><b>Title:</b> A Journey from Transfer Learning to Federated Learning
+
+<p><b>Speaker:</b> <a href="http://www.cs.ust.hk/~qyang/" target="_blank">Qiang Yang</a>, Chief AI Officer (CAIO), WeBank / Chair Professor, Hong Kong University of Science and Technology (HKUST)
+
+<p><b>Biography</b>
+<br>Qiang Yang is the head of the AI Department at WeBank (Chief AI Officer) and Chair Professor at the Computer Science and Engineering (CSE) Department of the Hong Kong University of Science and Technology (HKUST), where he was a former head of CSE Department and founding director of the Big Data Institute (2015-2018). His research interests include AI, machine learning, and data mining, especially in transfer learning, automated planning, federated learning, and case-based reasoning. He is a fellow of several international societies, including ACM, AAAI, IEEE, IAPR, and AAAS. He received his Ph.D. in Computer Science in 1989 and his M.Sc. in Astrophysics in 1985, both from the University of Maryland, College Park. He obtained his B.Sc. in Astrophysics from Peking University in 1982. He had been a faculty member at the University of Waterloo (1989-1995) and Simon Fraser University (1995-2001). He was the founding Editor-in-Chief of the ACM Transactions on Intelligent Systems and Technology (ACM TIST) and IEEE Transactions on Big Data (IEEE TBD). He served as the President of International Joint Conference on AI (IJCAI, 2017-2019) and an executive council member of Association for the Advancement of AI (AAAI, 2016-2020). Qiang Yang is a recipient of several awards, including the 2004/2005 ACM KDDCUP Championship, the ACM SIGKDD Distinguished Service Award (2017), and AAAI Innovative Applications of AI Award (2018 and 2020). He was the founding director of Huawei's Noah's Ark Lab (2012-2014) and a co-founder of 4Paradigm Corp, an AI platform company. He is an author of several books including Intelligent Planning (Springer), Crafting Your Research Future (Morgan & Claypool), and Constraint-based Design Recovery for Software Engineering (Springer).
+</h5>
+</td>
+</tr>
+
+</table>
+</div>
+
+<br>
+
+<div class="container">
+  <h3>Invited Talks</h3>
+<table>
+<tr class="container">
+<td style="vertical-align:top"><img border="0" width="100" src="Shiqiang.jpg"></img></td>
+<td>&nbsp&nbsp&nbsp</td>
+<td>
+<h5>
+<p><b>Title:</b> Towards Robust and Efficient Federated Learning
+
+<p><b>Speaker:</b> <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-wangshiq" target="_blank">Shiqiang Wang</a>, IBM T. J. Watson Research Center
+
+<p><b>Biography</b>
+<br>Shiqiang Wang received his Ph.D. from the Department of Electrical and Electronic Engineering, Imperial College London, United Kingdom, in 2015. He is a Research Staff Member at IBM T. J. Watson Research Center, NY, USA since 2016, where he was also a Graduate-level Co-op in the summers of 2014 and 2013. In the fall of 2012, he was at NEC Laboratories Europe, Heidelberg, Germany. His current research focuses on the interdisciplinary areas in machine learning, distributed systems, optimization, networking, and signal processing. Dr. Wang served as a technical program committee (TPC) member of several international conferences, including ICML, ICDCS, AISTATS, IJCAI, WWW, IFIP Networking, IEEE GLOBECOM, IEEE ICC, and as an associate editor of the IEEE Transactions on Mobile Computing (starting in 2021). He received the IBM Outstanding Technical Achievement Award (OTAA) in 2019, multiple Invention Achievement Awards from IBM since 2016, Best Paper Finalist of the IEEE International Conference on Image Processing (ICIP) 2019, and Best Student Paper Award of the Network and Information Sciences International Technology Alliance (NIS-ITA) in 2015.
+</h5>
+</td>
+</tr>
+
+<tr class="container">
+<td style="vertical-align:top"><img border="0" width="100" src="chongw.jpg"></img></td>
+<td>&nbsp&nbsp&nbsp</td>
+<td>
+<h5>
+<p><b>Title:</b> Label Leakage and Protection in Two-party Split Learning
+
+<p><b>Speaker:</b> <a href="https://chongw.github.io/" target="_blank">Chong Wang</a>, ByteDance
+
+<p><b>Biography</b>
+<br>Chong Wang is the head of the applied machine learning (AML) research at ByteDance. The AML Research team works on fundamental machine learning research and its applications for many of our products, such as TikTok and Douyin, among others. Before ByteDance, He worked as a research scientist at Google and Microsoft Research. He received B.S. from Tsinghua University and PhD from Princeton University. His research has won several best paper awards in top machine learning conferences and some of them went into widely used products to serve the users from the globe. His homepage is <a href="https://chongw.github.io/" target="_blank">https://chongw.github.io</a>.
+</h5>
+</td>
+</tr>
+
+<tr class="container">
+<td style="vertical-align:top"><img border="0" width="100" src="Jakub.jpg"></img></td>
+<td>&nbsp&nbsp&nbsp</td>
+<td>
+<h5>
+<p><b>Title:</b> Convergence/Accuracy Trade-offs in Federated Learning
+
+<p><b>Speaker:</b> <a href="http://jakubkonecny.com/" target="_blank">Jakub Konečný</a>, Google
+
+<p><b>Biography</b>
+<br>Jakub is Research Scientist at Google based in Beijing, focusing on algorithm and systems research for federated learning, with a particular focus on scalability and the intersection of techniques from cryptography, differential privacy, communication efficiency and optimization. He received his PhD from University of Edinburgh with focus on optimization algorithms for machine learning, and was recipient of the Google Doctoral Fellowship. He received a B.S. degree from Comenius University in Bratislava.
+</h5>
+</td>
+</tr>
+
+<tr class="container">
+<td style="vertical-align:top"><img border="0" width="100" src="HaoLi.jpg"></img></td>
+<td>&nbsp&nbsp&nbsp</td>
+<td>
+<h5>
+<p><b>Title:</b> Federated Learning for Industrial Video Recommendation
+
+<p><b>Speaker:</b> <a href="https://cn.linkedin.com/in/hao-li-47b8397" target="_blank">Hao Li</a>, Tencent
+
+<p><b>Biography</b>
+<br>Hao Li is the Tech Lead of privacy computing at Tencent WeSee, an APP for users to create and share their short videos. As a principle researcher and engineer at Tencent since 2018, he’s been focusing on data security and privacy by distributed and decentralized cross-silo/cross-device federated learning, and privacy-preserving machine learning by program analysis and secure multi-party computation. Before Tencent, he worked as a software architect at Intel. He received his PhD from Peking University, and Postdoc from Columbia University. His has published several papers in top system conferences such SOSP, VEE, CODES+ISSS, etc.
+</h5>
+</td>
+</tr>
+
+<tr class="container">
+<td style="vertical-align:top"><img border="0" width="100" src="bo.jpg"></img></td>
+<td>&nbsp&nbsp&nbsp</td>
+<td>
+<h5>
+<p><b>Title:</b> Large Scale Vertical Federated Learning
+
+<p><b>Speaker:</b> <a href="https://scholar.google.com/citations?user=FJwtMf0AAAAJ&hl=en" target="_blank">Liefeng Bo</a>, JD
+
+<p><b>Biography</b>
+<br>Dr. Bo is the Head of Silicon Valley R&D Center at JD Technology, leading a team to develop advanced AI technologies. He was a Principal Scientist at Amazon for building a grab-and-go shopping experience using computer vision, deep learning and sensor fusion technologies. He received his PhD from Xidian University in 2007, and was a postdoctoral researcher at TTIC and University of Washington, respectively. His research interests are in machine learning, deep learning, computer vision, robotics, and natural language processing. He won the National Excellent Doctoral Dissertation Award of China in 2010, and the Best Vision Paper Award in ICRA 2011.
+</h5>
+</td>
+</tr>
+
+<tr class="container">
+<td style="vertical-align:top"><img border="0" width="100" src="FeiWang.jpg"></img></td>
+<td>&nbsp&nbsp&nbsp</td>
+<td>
+<h5>
+<p><b>Title:</b> Federated Learning in Large Clinical Research Networks
+
+<p><b>Speaker:</b> <a href="https://gradschool.weill.cornell.edu/faculty/fei-wang" target="_blank">Fei Wang</a>, Cornell University
+
+<p><b>Biography</b>
+<br>Fei Wang is an Associate Professor in Division of Health Informatics, Department of Population Health Sciences, Weill Cornell Medicine, Cornell University. He got his PhD from Department of Automation, Tsinghua University in 2008. His major research interest is machine learning and artificial intelligence in health data science. He extensively published on the top venues of machine learning such as ICML, KDD, NeurIPS, CVPR, AAAI, IJCAI, biomedical informatics venues such as JAMIA and Bioinformatics, as well as clinical medicine venues such as JAMA and Lancet series. His papers have received over 15,000 citations so far with an H-index 61. His (or his students’) papers have won 6 best paper (or nomination) awards at top international conferences on data mining and medical informatics. His team won the championship of the NIPS/Kaggle Challenge on Classification of Clinically Actionable Genetic Mutations in 2017 and Parkinson's Progression Markers' Initiative data challenge organized by Michael J. Fox Foundation in 2016. Dr. Wang is the recipient of the NSF CAREER Award in 2018, as well as the inaugural research leadership award in IEEE International Conference on Health Informatics (ICHI) 2019. Dr. Wang’s Research has been supported by NSF, NIH, ONR, PCORI, MJFF, AHA, Amazon, etc. Dr. Wang is a fellow of AMIA.
+</h5>
+</td>
+</tr>
+
+</table>
+</div>
+
+<br>
+
+<div class="container">
+  <h3>Submission Instructions</h3>
+  <div class="overview">
+<p>Submissions should be between 4 to 7 pages following the IJCAI-21 template. Formatting guidelines, including LaTeX styles and a Word template, can be found at: <a href="https://www.ijcai.org/authors_kit" target="_blank">https://www.ijcai.org/authors_kit</a>. We do not accept submissions of work currently under review. The submissions should include author details as we do not carry out blind review. High quality submissions will be invited to submit an extended version to a journal special issue (to be announced later).
+
+<p>Submission link: <a href="https://easychair.org/conferences/?conf=flijcai21" target="_blank">https://easychair.org/conferences/?conf=flijcai21</a>
+
+<p>For enquiries, please email to <a href="mailto:flijcai21@easychair.org">flijcai21@easychair.org</a>.
+
+    </div>
+</div>
+
+<br>
+
+<div class="container">
+  <h3>Publications</h3>
+  <div class="overview">
+<p>Selected high quality submissions will be invited to contribute chapters in the following edited book:
+
+<ul>
+<li>Razavi-Far, R., Wang, B., Taylor, M. E. & Yang, Q. (Eds.). (2021). <i>Federated and Transfer Learning</i>. Springer, Heidelberg, Germany.</li>
+</ul>
+
+    </div>
+</div>
+
+<br>
+
+<div class="container">
+  <h3>Organizing Committee</h3>
+  <div class="overview">
+<ul>
+<li>Steering Chair:</li>
+<ul>
+	<li><a href="http://www.cs.ust.hk/~qyang/" target="_blank">Qiang Yang</a> (Hong Kong University of Science and Technology / WeBank, China)</li>
+</ul>
+<li>General Co-Chairs:</li>
+<ul>
+	<li><a href="https://scholar.google.fi/citations?user=fOsgdn0AAAAJ&hl=en" target="_blank">Lixin Fan</a> (WeBank, China)</li>
+	<li><a href="http://www.pitt.edu/~heh45/" target="_blank">Heng Huang</a> (JD Finance America Corporation / University of Pittsburgh, USA)</li>
+	<li><a href="https://personal.ntu.edu.sg/sinnopan/" target="_blank">Sinno Jialin Pan</a> (Nanyang Technological University, Singapore)</li>
+</ul>
+<li>Program Co-Chairs:</li>
+<ul>
+	<li><a href="https://www.ntu.edu.sg/home/han.yu/" target="_blank">Han Yu</a> (Nanyang Technological University, Singapore)</li>
+	<li><a href="https://www.linkedin.com/in/wei-wei-tu/?originalSubdomain=cn" target="_blank">Wei-Wei Tu</a> (4Paradigm Inc., China)</li>
+	<li><a href="https://sites.google.com/site/yangliuveronica/" target="_blank">Yang Liu</a> (WeBank, China)</li>
+</ul>
+<li>Publicity Co-Chairs:</li>
+<ul>
+	<li><a href="http://sites.nlsde.buaa.edu.cn/~yxtong/" target="_blank">Yongxin Tong</a> (Beihang University, China)</li>
+	<li><a href="https://profiles.uts.edu.au/Guodong.Long" target="_blank">Guodong Long</a> (University of Technology Sydney, Australia)</li>
+</ul>
+<li>Publication Co-Chairs:</li>
+<ul>
+	<li><a href="https://scholar.google.com.sg/citations?user=ar23Gp8AAAAJ&hl=en" target="_blank">Yuan Liu</a> (Northeastern University, China)</li>
+	<li><a href="https://www.clustar.ai/en" target="_blank">Ya-Ching Lu</a> (Clustar, China)</li>
+	<li>Xu Guo (Nanyang Technological University, Singapore)</li>
+</ul>
+<li>Web Chair:</li>
+<ul>
+	<li><a href="http://www.linjun.net.cn/" target="_blank">Jun Lin</a> (Joint SDU-NTU Centre for AI Research (C-FAIR), China)</li>
+	<li>Chang Liu (Nanyang Technological University, Singapore)</li>
+</ul>
+</ul>
+    </div>
+</div>
+
+<br>
+
+<div class="container">
+  <h3>Program Committee</h3>
+  <div class="overview">
+<ul>
+<li>Yiqiang Chen (Institute of Computing Technology, Chinese Academy of Sciences, China)</li>
+<li>Zichen Chen (Joint NTU-WeBank Research Centre on Fintech, Singapore)</li>
+<li>Bingsheng He (National University of Singapore, Singapore)</li>
+<li>Chaoyang He (University of Southern California, USA)</li>
+<li>Shuihai Hu (Clustar, China)</li>
+<li>Yihan Jiang (University of Washington, USA)</li>
+<li>Pallika Kanani (Oracle Labs, USA)</li>
+<li>Bryan Wei Yang Lim (Alibaba-NTU Singapore Joint Research Institute, Singapore)</li>
+<li>Zelei Liu (Nanyang Technological University, Singapore)</li>
+<li>Songtao Lu (IBM Thomas J. Watson Research Center, USA)</li>
+<li>Virendra Marathe (Oracle Labs, USA)</li>
+<li>Dimitrios Papadopoulos (The Hong Kong University of Science and Technology, Hong Kong)</li>
+<li>Yiyang Pei (Singapore Institute of Technology, Singapore)</li>
+<li>Anit Kumar Sahu (Bosch Center for Artificial Intelligence, Germany)</li>
+<li>Yueyue Shi (South China University of Technology, China)</li>
+<li>Lifeng Sun (Tsinghua University, China)</li>
+<li>Alysa Ziying Tan (Alibaba-NTU Singapore Joint Research Institute, Singapore)</li>
+<li>Aleksei Triastcyn (Google, USA)</li>
+<li>Praneeth Vepakomma (Massachusetts Institute of Technology, USA)</li>
+<li>Shiqiang Wang (IBM Thomas J. Watson Research Center, USA)</li>
+<li>Xi Weng (Peking University, China)</li>
+<li>Jianyu Wang (Carnegie Mellon University, USA)</li>
+<li>Jianshu Weng (AI Singapore, Singapore)</li>
+<li>Pengwei Xing (Nanyang Technological University, Singapore)</li>
+<li>Zheng Xu (University of Maryland, USA)</li>
+<li>Xin Yao (Tsinghua University, China)</li>
+<li>Junxue Zhang (Clustar, China)</li>
+<li>Peng Zhang (Guangzhou University, China)</li>
+<li>Rui-Xiao Zhang (Tsinghua University, China)</li>
+<li>Tianwei Zhang (Nanyang Technological University, Singapore)</li>
+</ul>
+    </div>
+</div>
+
+<br>
+
+<div class="container">
+<!--
+  <h3>Sponsored by</h3>
+  <div class="overview">
+<a href="http://aij.ijcai.org/" target="_blank"><img border="0" height="115" src="FL-IJCAI21/AIJ.png"></img></a> &nbsp 
+  </div>
+-->
+  <h3>Organized by</h3>
+  <div class="overview">
+
+<a href="https://www.webank.com/#/home" target="_blank"><img border="0" height="60" src="FL-IJCAI21/WeBank.png"></img></a> &nbsp 
+<a href="https://global.jd.com/" target="_blank"><img border="0" height="60" src="FL-IJCAI21/JD.png"></img></a> &nbsp 
+<a href="https://global.jd.com/" target="_blank"><img border="0" height="80" src="FL-IJCAI21/4Paradigm.png"></img></a> &nbsp 
+<a href="https://www.clustar.ai/" target="_blank"><img border="0" height="30" src="FL-IJCAI21/clustar.png"></img></a>
+    </div>
+
+  <h3>In Collaboration with</h3>
+  <div class="overview">
+
+<p>
+<a href="https://www.ust.hk/home" target="_blank"><img border="0" height="50" src="FL-IJCAI21/HKUST.png"></img></a> &nbsp 
+<a href="https://www.ntu.edu.sg/" target="_blank"><img border="0" height="50" src="FL-IJCAI21/NTU.png"></img></a> &nbsp 
+<a href="https://www.pitt.edu/" target="_blank"><img border="0" height="50" src="FL-IJCAI21/UoPittsburgh.png"></img></a> &nbsp 
+<a href="https://ev.buaa.edu.cn/" target="_blank"><img border="0" height="50" src="FL-IJCAI21/Beihang.png"></img></a> &nbsp 
+<a href="https://www.uts.edu.au/" target="_blank"><img border="0" height="80" src="FL-IJCAI21/UTS.png"></img></a> &nbsp 
+<a href="http://english.neu.edu.cn/" target="_blank"><img border="0" height="50" src="FL-IJCAI21/NEU.png"></img></a> &nbsp 
+<a href="https://cfair.sdu.edu.cn/" target="_blank"><img border="0" height="60" src="FL-IJCAI21/cfair.png"></img></a> &nbsp 
+    </div>
+</div>
+
+<br>
+
+<div class="container">
+    <div align="center">
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5kuntizvuti&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
+    </div>
+</div>
+
+</body>
+
+</html>
